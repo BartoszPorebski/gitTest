@@ -3,11 +3,19 @@
 
 zajęcia z Gita
 <<<<<<< HEAD
+<<<<<<< HEAD
 zmiany v2
 =======
 <<<<<<< HEAD
-alamakota
 =======
+
+>>>>>>> 856d43ce6de1dd57fb9e43ebbf689d08a87da0d0
+alamakota
+
+
+
+
+Ala ma koteła xD
 
 xxxx
  
@@ -16,8 +24,13 @@ lubi je kazda kobita ;)
 
 byle nie za bardzo:P
 
->>>>>>> 499da98475db046d2f11ff737453d748480c3688
 
-+++
+
 kot ma raka
+<<<<<<< HEAD
 >>>>>>> a6c723b72f6644f5e6bf064ea7eb000f12c43f99
+=======
+
+doje...łem to na nowym branczu :)
+
+>>>>>>> 856d43ce6de1dd57fb9e43ebbf689d08a87da0d0
